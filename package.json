@@ -1,0 +1,31 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "Number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipon68/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "“Bipon <“bipon770@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bipon68/number-formatter/issues"
+  },
+  "homepage": "https://github.com/bipon68/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
